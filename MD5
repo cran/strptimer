@@ -1,0 +1,14 @@
+a315d979338f099536430af88dbfe643 *DESCRIPTION
+5eaa7706f7a19ab72268549b8fdab3a8 *LICENSE
+8c3d393e52dfb975333df72592464be3 *NAMESPACE
+420f643d81931f71bdbf84f6518976dc *R/strptimer.R
+fe6bdad1e50b784ba00ccbe1105d9034 *README.md
+505b285656302016777085862d3ec318 *build/vignette.rds
+1b8e3d408228dee35203d41d3d071b89 *inst/doc/strptimer.R
+c3b737bddd0f9b883b2cc659b7a21ebb *inst/doc/strptimer.Rmd
+92381af906d4346e6b850cd9160c16b9 *inst/doc/strptimer.html
+e47e1379391ea49476bb7eadad50fbdd *man/base_options.Rd
+33fb5ec6a6495876759d44fa658f7c6c *man/time_bases.Rd
+d27365c3d311e69ce0a8eae29bd56622 *man/time_format.Rd
+a06bc1ed65e3c3a4f845da7fa0ed831f *man/time_format_.Rd
+c3b737bddd0f9b883b2cc659b7a21ebb *vignettes/strptimer.Rmd
